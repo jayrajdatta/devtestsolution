@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitFile", "SplitFile\SplitFile.csproj", "{97DEADB8-E425-436F-9C57-6627C57F9CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeFiles", "MergeFiles\MergeFiles.csproj", "{67F52282-F579-421D-B1A6-AD98002D561C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DEADB8-E425-436F-9C57-6627C57F9CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DEADB8-E425-436F-9C57-6627C57F9CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DEADB8-E425-436F-9C57-6627C57F9CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DEADB8-E425-436F-9C57-6627C57F9CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F52282-F579-421D-B1A6-AD98002D561C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F52282-F579-421D-B1A6-AD98002D561C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F52282-F579-421D-B1A6-AD98002D561C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F52282-F579-421D-B1A6-AD98002D561C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA625DD-0FA9-4A15-A428-5CECA3A93571}
+	EndGlobalSection
+EndGlobal

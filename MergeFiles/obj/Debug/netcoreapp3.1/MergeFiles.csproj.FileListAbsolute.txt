@@ -1,0 +1,11 @@
+D:\Projects\DevTestSolution\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+D:\Projects\DevTestSolution\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+D:\Projects\DevTestSolution\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+D:\Projects\DevTestSolution\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+D:\Projects\DevTestSolution\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+D:\Projects\DevTestSolution\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\Projects\DevTestSolution\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csprojAssemblyReference.cache
+D:\Projects\DevTestSolution\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+D:\Projects\DevTestSolution\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+D:\Projects\DevTestSolution\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+D:\Projects\DevTestSolution\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb

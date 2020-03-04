@@ -1,0 +1,11 @@
+D:\Projects\DevTestSolution\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.exe
+D:\Projects\DevTestSolution\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.deps.json
+D:\Projects\DevTestSolution\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.runtimeconfig.json
+D:\Projects\DevTestSolution\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.runtimeconfig.dev.json
+D:\Projects\DevTestSolution\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.dll
+D:\Projects\DevTestSolution\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.pdb
+D:\Projects\DevTestSolution\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.csprojAssemblyReference.cache
+D:\Projects\DevTestSolution\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.AssemblyInfoInputs.cache
+D:\Projects\DevTestSolution\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.AssemblyInfo.cs
+D:\Projects\DevTestSolution\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.dll
+D:\Projects\DevTestSolution\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.pdb
